@@ -14,7 +14,7 @@ name: &name #"Dionysios Fragkopoulos"
 
 
 description: &description "Research Assistant at the Hellenic Statistical Authority"
-url: "https://dfragos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://dfragos.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "dfragos/dfragos.github.io"
 
