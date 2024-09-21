@@ -26,7 +26,7 @@ author:
   avatar: "https://avatars.githubusercontent.com/u/1168366?v=4"
   name: "Dionysios Fragkopoulos"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Research Assistant"
   location: "Athens, Greece"
   employer: "Hellenic Statistical Authority"
   uri: # URL
@@ -46,18 +46,18 @@ author:
   codepen: # Username
   dribbble: # Username
   github: "dfragos"
-  kaggle: "dfragos"
-  stackoverflow: "27399694/dfragos"
+  kaggle: #"dfragos"
+  stackoverflow: #"27399694/dfragos"
 
   # Social media
   bluesky: # Replace this with you Bluesky username
-  facebook: "dfragos" # Username
+  facebook: #"dfragos" # Username
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: "_dfragos" # Username
+  instagram: #"_dfragos" # Username
   lastfm: # Username
   linkedin: "dfragos" # Username
   mastodon: # URL
@@ -67,7 +67,7 @@ author:
   steam: # Username
   telegram: # URL
   tumblr: # Username
-  twitter: "dfragos" # Username for X / Twitter
+  twitter: #"dfragos" # Username for X / Twitter
   vine: # Username
   weibo: # Username
   wikipedia: # Username
