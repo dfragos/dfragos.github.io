@@ -9,58 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-## PhD, Electrical and Computer Engineering  
+## Education
+### PhD, Electrical and Computer Engineering  
 **Institution**: Aristotle University of Thessaloniki  
 **Completion Date**: December 2018  
 Thesis: ICT Systems Integration in Higher Education.
 
-## MSc, Information Systems Management  
+### MSc, Information Systems Management  
 **Institution**: London School of Economics and Political Science  
 **Completion Date**: November 2009  
 Dissertation: Information Security Awareness Strategy.
 
-## Diploma, Electrical and Computer Engineering  
+### Diploma, Electrical and Computer Engineering  
 **Institution**: Aristotle University of Thessaloniki  
 **Completion Date**: November 2007  
 Thesis: Development of a Virtual Telecommunications Laboratory.
 
-# Work experience
-## Hellenic Statistical Authority (ELSTAT)
+## Work experience
+### Hellenic Statistical Authority (ELSTAT)
 **Position**: Research Officer  
 **Duration**: March 2023 – Present  
 
-## National Technical University of Athens (NTUA)
+### National Technical University of Athens (NTUA)
 **Position**: Technical Project Manager  
 **Duration**: April 2020 – Present  
 - Managed the design and implementation of infrastructure and applications for 32 universities and 27 research institutes in Greece.  
 - Designed data visualization tools and analyzed business requirements for software solutions.  
 - Deployed high-availability infrastructure supporting up to 2000 concurrent user actions per second.
 
-## Hellenic Agricultural Insurance Organization (ELGA)
+### Hellenic Agricultural Insurance Organization (ELGA)
 **Position**: Systems Engineer  
 **Duration**: October 2021 – March 2023  
 - Managed and redesigned ELGA's central data center infrastructure.  
 - Acted as Information Systems Security Representative for the Ministry of Digital Governance.
 
-## Hellenic Academic Libraries Link
+### Hellenic Academic Libraries Link
 **Position**: Project Manager  
 **Duration**: January 2017 – December 2017  
 - Oversaw financial management of the annual budget.  
 - Delivered Greece's first SaaS plagiarism detection software (Turnitin).
 
-## Aristotle University of Thessaloniki (AUTH)
+### Aristotle University of Thessaloniki (AUTH)
 **Position**: Project Manager  
 **Duration**: November 2014 – December 2016  
 - Supervised technical tasks and financial management of the annual budget.  
 - Improved IT infrastructure aligned with ISO 9001 and ISO/IEC 27001.
 
-## Hellenic Army
+### Hellenic Army
 **Position**: Systems Administrator  
 **Duration**: January 2014 – September 2014  
 - Maintained and managed the central firewalls, IPS systems according to ISO 27001 
 
-## Aristotle University of Thessaloniki (AUTH)
+### Aristotle University of Thessaloniki (AUTH)
 **Position**: Network Infrastructure Architect  
 **Duration**: May 2011 – April 2013  
 - Designed the network infrastructure for Halki Theological School, Turkey.
@@ -70,12 +70,12 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 - Maintained Linux and Windows servers, web services, mail systems, and databases.  
 - Implemented computational R clusters using AWS ElasticCluster. 
 
-## Dataline SA
+### Dataline SA
 **Position**: Wireless Infrastructure Architect  
 **Duration**: February 2008 – March 2008  
 - Designed and implemented the Technological Institute of Larissa, Greece wireless infrastructure (802.11) 
 
-## Aristotle University of Thessaloniki 
+### Aristotle University of Thessaloniki 
 **Position**: Junior Project Manager  
 **Duration**: May 2006 – July 2008  
 - Led the development of the University’s first wireless network infrastructure (802.11 - eduroam).
@@ -84,37 +84,37 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 **Duration**: June 2005 – July 2008  
 - Linux server maintenance 
 
-## Center for Democracy and Reconciliation in Southeast Europe (CDRSEE) 
+### Center for Democracy and Reconciliation in Southeast Europe (CDRSEE) 
 **Position**: IT Consultant  
 **Duration**: May 2005 – July 2008  
 - Redesigned the organization’s IT infrastructure.
 - Personnel technical support.
 
-# Certifications
+## Certifications
 - PRINCE2 Practitioner (2013, 2017)  
 - ITIL Foundation (2014)  
 - Microsoft Azure certifications (Administrator, Network Engineer, AI Fundamentals, etc.).
   
-# Skills
+## Skills
 - **IT Systems Management**: AWS, VLANs, Windows, Linux, Firewalls, Cisco, VMware.  
 - **Statistical Software**: Excel, SPSS, R.  
 - **Programming**: PHP, Python, Bash, SQL, JavaScript.
 
-# Professional Memberships
+## Professional Memberships
 - Project Management Institute (PMI)  
 - Technical Chamber of Greece (TEE)
 
-# Publications
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-# Teaching
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
