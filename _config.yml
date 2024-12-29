@@ -213,7 +213,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -301,6 +301,11 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+sitemap:
+  exclude:
+    - /portfolio/
+    - /blog/
 
 # Archives
 #  Type
