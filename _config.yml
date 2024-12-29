@@ -306,6 +306,17 @@ sitemap:
   exclude:
     - /portfolio/
     - /blog/
+    - /posts/
+    - /archive-layout-with-content/
+    - /categories/
+    - /non-menu-page/
+    - /sitemap/
+    - /tags/
+    - /talkmap.html
+    - /year-archive/
+    - /markdown-generator/
+    - /talkmap/
+    - /terms/
 
 # Archives
 #  Type
