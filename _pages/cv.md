@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 ### PhD, Electrical and Computer Engineering  
-**Institution**: Aristotle University of Thessaloniki  
+**Institution**: Aristotle University of Thessaloniki
 **Completion Date**: December 2018  
-- Thesis: ICT Systems Integration in Higher Education.
+Thesis: ICT Systems Integration in Higher Education.
 
 ### MSc, Information Systems Management  
-**Institution**: London School of Economics and Political Science 
+**Institution**: London School of Economics and Political Science
 **Completion Date**: November 2009  
-- Dissertation: Information Security Awareness Strategy.
+Dissertation: Information Security Awareness Strategy.
 
 ### Diploma, Electrical and Computer Engineering  
 **Institution**: Aristotle University of Thessaloniki  
 **Completion Date**: November 2007  
-- Thesis: Development of a Virtual Telecommunications Laboratory.
+Thesis: Development of a Virtual Telecommunications Laboratory.
 
 Work experience
 ======
