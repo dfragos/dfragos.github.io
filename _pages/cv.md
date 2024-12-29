@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 ## PhD, Electrical and Computer Engineering  
 **Institution**: Aristotle University of Thessaloniki  
 **Completion Date**: December 2018  
@@ -26,8 +25,7 @@ Dissertation: Information Security Awareness Strategy.
 **Completion Date**: November 2007  
 Thesis: Development of a Virtual Telecommunications Laboratory.
 
-Work experience
-======
+# Work experience
 ## Hellenic Statistical Authority (ELSTAT)
 **Position**: Research Officer  
 **Duration**: March 2023 – Present  
@@ -92,37 +90,31 @@ Work experience
 - Redesigned the organization’s IT infrastructure.
 - Personnel technical support.
 
-Certifications
-======
+# Certifications
 - PRINCE2 Practitioner (2013, 2017)  
 - ITIL Foundation (2014)  
 - Microsoft Azure certifications (Administrator, Network Engineer, AI Fundamentals, etc.).
   
-Skills
-======
+# Skills
 - **IT Systems Management**: AWS, VLANs, Windows, Linux, Firewalls, Cisco, VMware.  
 - **Statistical Software**: Excel, SPSS, R.  
 - **Programming**: PHP, Python, Bash, SQL, JavaScript.
 
-Professional Memberships
-======
+# Professional Memberships
 - Project Management Institute (PMI)  
 - Technical Chamber of Greece (TEE)
 
-Publications
-======
+# Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
