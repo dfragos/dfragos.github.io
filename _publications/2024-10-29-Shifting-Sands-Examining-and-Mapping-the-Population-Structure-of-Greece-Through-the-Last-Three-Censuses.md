@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-10-29
 venue: 'Economies 2024, MDPI'
 paperurl: 'https://www.mdpi.com/2227-7099/12/11/294'
-citation: 'Kalogeropoulos, K., Fragkopoulos, D., Andreopoulos P., Tragaki A. (2024). &quot;Shifting Sands: Examining and Mapping the Population Structure of Greece Through the Last Three Censuses&quot; <i>Economies</i> <b>2024</b>, <i>12</i>, 294. https://doi.org/10.3390/economies12110294'
+citation: 'Kalogeropoulos K., Fragkopoulos D., Andreopoulos P., Tragaki A. (2024). &quot;Shifting Sands: Examining and Mapping the Population Structure of Greece Through the Last Three Censuses&quot; <i>Economies</i> <b>2024</b>, <i>12</i>, 294. https://doi.org/10.3390/economies12110294'
 ---
 
 Abstract

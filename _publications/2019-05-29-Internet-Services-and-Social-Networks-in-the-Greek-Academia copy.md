@@ -7,7 +7,7 @@ excerpt: ''
 date: 2019-05-29
 venue: 'Strategic Innovative Marketing and Tourism'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-12453-3_32'
-citation: 'Fragkopoulos, D. (2019). &quot;Internet Services and Social Networks in the Greek Academia. In: Kavoura, A., Kefallonitis, E., Giovanis, A. (eds) Strategic Innovative Marketing and Tourism.&quot; <i>Springer Proceedings in Business and Economics. Springer, Cham</i>. [1(3).](https://doi.org/10.1007/978-3-030-12453-3_32)'
+citation: 'Fragkopoulos D. (2019). &quot;Internet Services and Social Networks in the Greek Academia. In: Kavoura, A., Kefallonitis, E., Giovanis, A. (eds) Strategic Innovative Marketing and Tourism.&quot; <i>Springer Proceedings in Business and Economics. Springer, Cham</i>. [1(3).](https://doi.org/10.1007/978-3-030-12453-3_32)'
 ---
 
 Abstract
