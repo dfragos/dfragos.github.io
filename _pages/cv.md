@@ -35,7 +35,6 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 **Duration**: April 2020 – Present  
 - Managed the design and implementation of infrastructure and applications for 32 universities and 27 research institutes in Greece.  
 - Designed data visualization tools and analyzed business requirements for software solutions.  
-- Deployed high-availability infrastructure supporting up to 2000 concurrent user actions per second.
 
 ### Hellenic Agricultural Insurance Organization (ELGA)
 **Position**: Systems Engineer  
@@ -98,7 +97,7 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 ## Skills
 - **IT Systems Management**: AWS, VLANs, Windows, Linux, Firewalls, Cisco, VMware.  
 - **Statistical Software**: Excel, SPSS, R.  
-- **Programming**: PHP, Python, Bash, SQL, JavaScript.
+- **Programming**: PHP, Python, Bash, SQL.
 
 ## Professional Memberships
 - Project Management Institute (PMI)  
