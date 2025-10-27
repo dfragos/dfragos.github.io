@@ -13,7 +13,7 @@ title_separator: "-"
 name: &name #"Dionysios Fragkopoulos"
 
 
-description: &description "Research Officer at the Hellenic Statistical Authority"
+description: &description "Scientific Officer at the Ministry of Digital Governance"
 url: "https://dfragos.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "dfragos/dfragos.github.io"
@@ -26,9 +26,9 @@ author:
   avatar: "https://avatars.githubusercontent.com/u/1168366?v=4"
   name: "Dionysios Fragkopoulos"
   pronouns: # example: "she/her"
-  bio: "Research Officer"
+  bio: "Scientific Officer"
   location: "Athens, Greece"
-  employer: "Hellenic Statistical Authority"
+  employer: "Ministry of Digital Governance"
   uri: # URL
   email: "me@dfragos.me"
 
