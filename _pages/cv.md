@@ -46,7 +46,7 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 - Managed and redesigned ELGA's central data center infrastructure.  
 - Acted as Information Systems Security Representative for the Ministry of Digital Governance.
 
-### Hellenic Academic Libraries Link, Thessaloniki, Greece
+### Hellenic Academic Libraries Link (HEAL-Link), Thessaloniki, Greece
 **Position**: Project Manager  
 **Duration**: January 2017 – December 2017  
 - Oversaw financial management of the annual budget.  
