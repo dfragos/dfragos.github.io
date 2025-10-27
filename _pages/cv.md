@@ -26,40 +26,44 @@ Dissertation: Information Security Awareness Strategy.
 Thesis: Development of a Virtual Telecommunications Laboratory.
 
 ## Work experience
-### Hellenic Statistical Authority (ELSTAT)
-**Position**: Research Officer  
-**Duration**: March 2023 – Present  
+### Ministry of Digital Governance, Athens, Greece
+**Position**: Scientific Officer  
+**Duration**: October 2025 – Present  
 
-### National Technical University of Athens (NTUA)
+### Hellenic Statistical Authority (ELSTAT), Athens, Greece
+**Position**: Scientific Officer  
+**Duration**: March 2023 – October 2025  
+
+### National Technical University of Athens (NTUA), Athens, Greece
 **Position**: Technical Project Manager  
 **Duration**: April 2020 – Present  
 - Managed the design and implementation of infrastructure and applications for 32 universities and 27 research institutes in Greece.  
 - Designed data visualization tools and analyzed business requirements for software solutions.  
 
-### Hellenic Agricultural Insurance Organization (ELGA)
+### Hellenic Agricultural Insurance Organization (ELGA), Athens, Greece
 **Position**: Systems Engineer  
 **Duration**: October 2021 – March 2023  
 - Managed and redesigned ELGA's central data center infrastructure.  
 - Acted as Information Systems Security Representative for the Ministry of Digital Governance.
 
-### Hellenic Academic Libraries Link
+### Hellenic Academic Libraries Link, Thessaloniki, Greece
 **Position**: Project Manager  
 **Duration**: January 2017 – December 2017  
 - Oversaw financial management of the annual budget.  
 - Delivered Greece's first SaaS plagiarism detection software (Turnitin).
 
-### Aristotle University of Thessaloniki (AUTH)
+### Aristotle University of Thessaloniki (AUTH), Thessaloniki, Greece
 **Position**: Project Manager  
 **Duration**: November 2014 – December 2016  
 - Supervised technical tasks and financial management of the annual budget.  
 - Improved IT infrastructure aligned with ISO 9001 and ISO/IEC 27001.
 
-### Hellenic Army
+### Hellenic Army, Athens, Greece
 **Position**: Systems Administrator  
 **Duration**: January 2014 – September 2014  
 - Maintained and managed the central firewalls, IPS systems according to ISO 27001 
 
-### Aristotle University of Thessaloniki (AUTH)
+### Aristotle University of Thessaloniki (AUTH), Thessaloniki, Greece
 **Position**: Network Infrastructure Architect  
 **Duration**: May 2011 – April 2013  
 - Designed the network infrastructure for Halki Theological School, Turkey.
@@ -83,7 +87,7 @@ Thesis: Development of a Virtual Telecommunications Laboratory.
 **Duration**: June 2005 – July 2008  
 - Linux server maintenance 
 
-### Center for Democracy and Reconciliation in Southeast Europe (CDRSEE) 
+### Center for Democracy and Reconciliation in Southeast Europe (CDRSEE), Thessaloniki, Greece 
 **Position**: IT Consultant  
 **Duration**: May 2005 – July 2008  
 - Redesigned the organization’s IT infrastructure.
